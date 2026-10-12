@@ -1,0 +1,13 @@
+tiktoken==0.4.0 
+backoff==2.2.1 
+groq==1.7.0
+RPi.GPIO==0.7.1
+luma.core==2.4.1
+luma.lcd==2.11.0
+Pillow==9.4.0
+nicegui==1.3.13
+pyalsaaudio==0.10.0
+python-dotenv==1.0.0
+opencv-python==4.8.1.78
+opencv-python-headless==4.8.1.78
+yfinance==0.2.36
